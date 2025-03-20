@@ -36,7 +36,7 @@
 
             bindings = <
 &trans  &kp EXCLAMATION   &kp AT_SIGN       &kp HASH           &kp DOLLAR            &kp PERCENT              &kp MINUS                 &kp N7        &kp N8        &kp N9        &kp EQUAL     &trans
-&trans  &kp CARET         &kp AMPERSAND     &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS    &kp PLUS                  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp ASTERISK  &trans
+&trans  &kp CARET         &kp AMPERSAND     &kp MINUS          &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS    &kp PLUS                  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp ASTERISK  &trans
 &trans  &kp SINGLE_QUOTE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE          &kp PERIOD                &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp COMMA     &trans
                                             &kp LGUI           &kp RET               &kp SPACE                &mt LEFT_SHIFT BACKSPACE  &kp SPACE     &kp N0
             >;
